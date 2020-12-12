@@ -25,12 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-16"
   date_end = "2020-08-21"
   description = ""
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 
 
