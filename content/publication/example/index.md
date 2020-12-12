@@ -73,4 +73,4 @@ projects: []
 slides: example
 ---
 
-slides: ""
+
