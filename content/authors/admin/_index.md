@@ -71,4 +71,4 @@ I am passionate about solving problems with mathematical tools. I enjoy telling 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
