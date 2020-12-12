@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: https://sj5yq@virginia.edu
+  link: sjiang32@jh.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/jsh980210
