@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Texas"
   date_start = "2020-05-16"
   date_end = "2020-08-21"
-  description = """
+  description = ""
   Responsibilities include:
   
   * Analysing
@@ -32,13 +32,6 @@ date_format = "Jan 2006"
   * Deploying
   """
 
-[[experience]]
-  title = "Student"
-  company = "University X"
-  company_url = ""
-  location = "MD"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Researched Fisher Information Matrix."""
+
 
 +++

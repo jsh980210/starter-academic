@@ -28,16 +28,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = ""
-  
+
 
 
 +++
