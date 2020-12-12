@@ -42,10 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: sj5yq@virginia.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/jsh980210
@@ -67,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-I am passionate about solving problems with mathematical tools. I enjoy telling stories behind data and extract information. I am currently pursuing Ph.D. degree in system engineering at University of Virginia.
+I am passionate about solving problems with mathematical tools. I enjoy telling stories behind data and extracting information. I am currently pursuing Ph.D. degree in system engineering at University of Virginia.
 
 
 
