@@ -14,7 +14,7 @@ organizations:
   url: https://engineering.virginia.edu/departments/engineering-systems-and-environment/academics/systems-engineering
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm motivated to move forward.
+bio: Stay hungry. Stay foolish.
 
 # Interests to show in About widget
 interests:
