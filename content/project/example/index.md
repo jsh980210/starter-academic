@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: BAYESIAN PROJECT
+summary: An application of Bayesian methods on binary response data.
 # tags:
 #- Deep Learning
 #date: "2016-04-27T00:00:00Z"
